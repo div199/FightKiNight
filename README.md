@@ -11,7 +11,7 @@ Hardware Requirement:
 Laptop or PC with  4 GB Ram
 
 Download Unity and install it on your PC.
-After installing open FightKiNight project folder -> libraies->scenes->Gameplay.unity
+After installing open FightKiNight project folder -> Assets->scenes->Gameplay.unity
 
 Open it "It will take some time to import the assets"
 
